@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  I learned the superscript and strikethrough tags. I thought they could only be done through CSS but I saw they were through html.
+  * What has been easy?
+  All of the bolding and italicizing, because they're distinct.
+  * What has been difficult?
+  Initially I was trying to use break tags, but realized that using paragraph tags were easier.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  Using lots of trial and error, and making sure I'm being logical and methodical
+---
+
+Your response goes here!
